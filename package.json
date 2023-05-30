@@ -1,0 +1,30 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "argon2": "^0.30.3",
+    "axios": "^1.4.0",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "fortune-teller": "^0.1.2",
+    "jsonwebtoken": "^9.0.0",
+    "morgan": "^1.10.0",
+    "node-fetch": "^3.3.1",
+    "node-json-db": "^2.1.5",
+    "node-radius-client": "^1.0.0",
+    "openid-client": "^5.4.2",
+    "passport": "^0.6.0",
+    "passport-jwt": "^4.0.1",
+    "passport-local": "^1.0.0",
+    "scrypt-mcf": "^1.0.0"
+  }
+}
